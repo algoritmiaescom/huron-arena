@@ -39,7 +39,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title='Arena Hurón'
+      title='Inicio'
       description="tournaments using Lockout Bot">
       <HomepageHeader />
       <main>
