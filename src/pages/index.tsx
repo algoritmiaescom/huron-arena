@@ -28,7 +28,7 @@ function HomepageHeader() {
           </div>
         </div>
         <div className={clsx("text--center", "col col--3")}>
-          <img src={'/img/huron_coder.png'} alt={'Otter Smart'} />
+          <img src={'/huron-arena/img/huron_coder.png'} alt={'Otter Smart'} />
         </div>
       </div>
     </header>
