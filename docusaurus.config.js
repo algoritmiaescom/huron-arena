@@ -13,10 +13,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'algoritmiaescom', // Usually your GitHub org/user name.
-  projectName: 'huron-arena', // Usually your repo name.
+  organizationName: 'algoritmiaescom', 
+  projectName: 'huron-arena', 
 
   i18n: {
     defaultLocale: 'es',
@@ -30,10 +28,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/algoritmiaescom/huron-arena/tree/master',
         },
         blog: false,
         theme: {
