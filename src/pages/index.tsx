@@ -40,7 +40,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title='Arena Hurón'
-      description="Description will go into a meta tag in <head />">
+      description="tournaments using Lockout Bot">
       <HomepageHeader />
       <main>
       </main>
