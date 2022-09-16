@@ -5,4 +5,4 @@ title: Intro
 
 # Intro
 
-![Intro](https://memegenerator.net/img/instances/86460897.jpg)
+![Intro](./assets/intro.jpg)
